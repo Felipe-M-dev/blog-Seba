@@ -6,6 +6,7 @@
 
 body {
     font-family: 'Tajawal', sans-serif;
+    background-color: black;
 }
 
 nav a {
@@ -16,8 +17,4 @@ nav a {
     display: inline-block;
     color: white;
     justify-content: center;
-}
-
-.carousel-bg {
-    height: 100vh;
 }
