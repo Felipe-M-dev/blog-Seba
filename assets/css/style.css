@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: 'Tajawal', sans-serif;
+}
+
+nav a {
+    padding-top: 1.25rem;
+}
+
+.logo-Seba p {
+    display: inline-block;
+    color: white;
+    justify-content: center;
+}
+
+.carousel-bg {
+    height: 100vh;
+}
