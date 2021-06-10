@@ -18,3 +18,18 @@ nav a {
     color: white;
     justify-content: center;
 }
+
+.carousel-bg {
+    width: 100vh;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+  
+.nav-item:hover {
+    border-bottom: 1px solid white;
+}
