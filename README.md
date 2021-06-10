@@ -1,2 +1,3 @@
-# blog-Seba
- Blog page to publish art work
+# Blog-Art Page
+ 
+ Visita: https://felipe-m-dev.github.io/blog-Seba/
