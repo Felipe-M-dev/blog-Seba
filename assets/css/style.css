@@ -19,6 +19,10 @@ nav a {
     justify-content: center;
 }
 
+.logo-Seba a {
+    text-decoration: none;
+}
+
 .carousel-bg {
     height: 100vh;
 }
