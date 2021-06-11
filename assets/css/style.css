@@ -19,19 +19,12 @@ nav a {
     justify-content: center;
 }
 
-.logo-Seba a {
+.non-underline {
     text-decoration: none;
 }
 
 .carousel-bg {
     height: 100vh;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
 }
   
 .nav-item:hover {
