@@ -20,7 +20,7 @@ nav a {
 }
 
 .carousel-bg {
-    width: 100vh;
+    height: 100vh;
 }
 
 ul {
@@ -32,4 +32,13 @@ ul {
   
 .nav-item:hover {
     border-bottom: 1px solid white;
+}
+
+#footer p {
+    display: inline-block;
+    color: white;
+    justify-content: center;
+    font-size: 10px;
+    font-style: normal;
+    opacity: 50%;
 }
